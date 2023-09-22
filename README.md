@@ -1,5 +1,12 @@
-# Node-REST-API
+# Node-REST-API Authentication
 Creating a REST API using Node.js involves building a web server that can handle HTTP requests and respond with the appropriate data or actions based on those requests.
+
+## Features
+
+1. **Authentication**: Users can authenticate using their username and password.
+2. **User Registration**: New users can register by providing a unique username and password.
+3. **User Login**: Registered users can log in using their credentials.
+4. **Password Management**: Users can reset or change their passwords.
 
 <h2> To Run this Project via NPM follow below: </h2>
 Follow these instructions to set up and run the API locally.
